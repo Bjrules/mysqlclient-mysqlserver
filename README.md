@@ -1,6 +1,6 @@
 #### This is Banjo Babade Project5 at Darey.io DevOps Learning Platform
-1. i created two EC2 instances at once, and rename one as MYSQL-ERVER AND THE OTHER AS SQL-CLIENT.!
-2. [instances in AWS](Screenshot_20230103_202334.png)
+1. i created two EC2 instances at once, and rename one as MYSQL-ERVER AND THE OTHER AS SQL-CLIENT.
+2. ![instances in AWS](Screenshot_20230103_202334.png)
 3. firstly I did **sudo apt update** 
 4. **secondly sudo apt upgrade** to upgrade ubuntu
 5. then i used **sudo apt install mysql-client** to install the client
