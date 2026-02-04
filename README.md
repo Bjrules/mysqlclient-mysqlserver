@@ -1,4 +1,4 @@
-#### This is Banjo Babade Project5 at Darey.io DevOps Learning Platform
+#### This is Project5 
 1. i created two EC2 instances at once, and rename one as MYSQL-ERVER AND THE OTHER AS SQL-CLIENT.
 2. ![instances in AWS](Screenshot_20230103_202334.png)
 3. firstly I did **sudo apt update** 
@@ -14,4 +14,5 @@
 13. ![server screenshots](Screenshot_20230104_112427.png)
 14. ![Client screenshot](Screenshot_20230104_112302.png)
 
-####You can make it
+####You can make it 
+#### Banjo babade @darey.io
